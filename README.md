@@ -4,7 +4,7 @@
  Power BI helps HR departments visualize key metrics, predict future workforce needs, analyze employee sentiment,
  monitor compliance, and continuously improve HR processes. With its user-friendly interface and advanced analytics capabilities, 
  Power BI empowers HR professionals to make informed decisions that drive organizational success and foster a culture of transparency and excellence.
-#### *Dashboard link*: https://app.powerbi.com/groups/me/reports/800ce6ed-bb66-49b9-ab0b-44a9cdd896f9/ReportSectionbc9f9f61f0a49f680801?experience=power-bi
+#### *Dashboard link*: [https://app.powerbi.com/groups/me/reports/800ce6ed-bb66-49b9-ab0b-44a9cdd896f9/ReportSectionbc9f9f61f0a49f680801?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNWJkYzQ2NDEtM2FmMy00ZDVjLTk0MGYtNTBjODlhMjk2NDBmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)
 ```Hope You will get so many insights from this dashboard```
 
 ![Page1](https://github.com/27DEBAPRIYA/HR_Analysis_Power-BI/assets/102849901/a8f9500d-ab5d-4089-81c6-92bb68a2f33e)
